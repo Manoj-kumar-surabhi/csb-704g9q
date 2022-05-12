@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/css/main.f385df9e.chunk.css",
+    "main.js": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/main.6d56bb53.chunk.js",
+    "main.js.map": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/main.6d56bb53.chunk.js.map",
+    "runtime-main.js": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/runtime-main.104e1d91.js",
+    "runtime-main.js.map": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/runtime-main.104e1d91.js.map",
+    "static/js/2.16f2180d.chunk.js": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/2.16f2180d.chunk.js",
+    "static/js/2.16f2180d.chunk.js.map": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/2.16f2180d.chunk.js.map",
+    "index.html": "https://manoj-kumar-surabhi.github.io/csb-704g9q/index.html",
+    "static/css/main.f385df9e.chunk.css.map": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/css/main.f385df9e.chunk.css.map",
+    "static/js/2.16f2180d.chunk.js.LICENSE.txt": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/2.16f2180d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.104e1d91.js",
+    "static/js/2.16f2180d.chunk.js",
+    "static/css/main.f385df9e.chunk.css",
+    "static/js/main.6d56bb53.chunk.js"
+  ]
+}
