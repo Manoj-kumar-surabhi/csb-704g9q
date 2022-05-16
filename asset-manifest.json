@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/css/main.f385df9e.chunk.css",
-    "main.js": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/main.6d56bb53.chunk.js",
-    "main.js.map": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/main.6d56bb53.chunk.js.map",
-    "runtime-main.js": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/runtime-main.104e1d91.js",
-    "runtime-main.js.map": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/runtime-main.104e1d91.js.map",
-    "static/js/2.16f2180d.chunk.js": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/2.16f2180d.chunk.js",
-    "static/js/2.16f2180d.chunk.js.map": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/2.16f2180d.chunk.js.map",
-    "index.html": "https://manoj-kumar-surabhi.github.io/csb-704g9q/index.html",
-    "static/css/main.f385df9e.chunk.css.map": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/css/main.f385df9e.chunk.css.map",
-    "static/js/2.16f2180d.chunk.js.LICENSE.txt": "https://manoj-kumar-surabhi.github.io/csb-704g9q/static/js/2.16f2180d.chunk.js.LICENSE.txt"
+    "main.css": "https://.github.io/csb-704g9q/static/css/main.f385df9e.chunk.css",
+    "main.js": "https://.github.io/csb-704g9q/static/js/main.12f24fb0.chunk.js",
+    "main.js.map": "https://.github.io/csb-704g9q/static/js/main.12f24fb0.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-704g9q/static/js/runtime-main.fc8ba20b.js",
+    "runtime-main.js.map": "https://.github.io/csb-704g9q/static/js/runtime-main.fc8ba20b.js.map",
+    "static/js/2.16f2180d.chunk.js": "https://.github.io/csb-704g9q/static/js/2.16f2180d.chunk.js",
+    "static/js/2.16f2180d.chunk.js.map": "https://.github.io/csb-704g9q/static/js/2.16f2180d.chunk.js.map",
+    "index.html": "https://.github.io/csb-704g9q/index.html",
+    "static/css/main.f385df9e.chunk.css.map": "https://.github.io/csb-704g9q/static/css/main.f385df9e.chunk.css.map",
+    "static/js/2.16f2180d.chunk.js.LICENSE.txt": "https://.github.io/csb-704g9q/static/js/2.16f2180d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.104e1d91.js",
+    "static/js/runtime-main.fc8ba20b.js",
     "static/js/2.16f2180d.chunk.js",
     "static/css/main.f385df9e.chunk.css",
-    "static/js/main.6d56bb53.chunk.js"
+    "static/js/main.12f24fb0.chunk.js"
   ]
 }
